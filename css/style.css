@@ -306,16 +306,16 @@ footer a {
 
 .col_1 {
       float: left;
-      width: 64%;
+      width: 65%;
 }
 
 .col_2 {
       float: right;
-      width: 33%;
+      width: 32%;
 }
 
 .col_3 {
-  float: inherit;
+  float: right;;
   width: 32%;
   margin-top: 2%;
 }
