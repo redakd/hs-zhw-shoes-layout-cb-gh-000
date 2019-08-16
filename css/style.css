@@ -315,14 +315,9 @@ footer a {
 }
 
 .col_3 {
-  float: right;;
-  width: 31%;
-  margin-top: 2%;
-}
-.col_4 {
   float: left;
   width: 31%;
-  margin: 2%;
+  margin-top: 2%;
 }
 
 [class*="col_"] {
