@@ -319,6 +319,11 @@ footer a {
   width: 31%;
   margin-top: 2%;
 }
+.col_4 {
+  float: right;
+  width: 31%;
+  margin: 2%;
+}
 
 [class*="col_"] {
   margin-left: 2%;
