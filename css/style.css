@@ -304,14 +304,19 @@ footer a {
 
 /* code examples copyright Jonathan Grover 2012 */
 
-.col_1{
+.col_1 {
       float: left;
       width: 66%;
 }
 
-.col_2{
+.col_2 {
       float: right;
       width: 31%;
+}
+
+.col_3 {
+  float: right;
+  width: 32.33%
 }
 
 [class*="col_"] {
