@@ -307,11 +307,14 @@ footer a {
 .col_1{
       float: left;
       width: 66%;
+      background: none;
+
 }
 
 .col_2{
       float: right;
       width: 31%;
+      background: none;
 }
 
 [class*="col_"] {
