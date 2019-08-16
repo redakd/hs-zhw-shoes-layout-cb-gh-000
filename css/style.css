@@ -327,3 +327,8 @@ footer a {
 .first {
   margin-left: 0%;
 }
+
+#space {
+  padding: 20px;
+  margin-bottom: 20px;
+}
