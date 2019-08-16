@@ -126,6 +126,9 @@ iframe {
   padding-right: 20px;
 }
 
+.thumbs_up {
+  background: white url(../images/thumbs_up.jpg) no-repeat top right;
+}
 
 .contact_form {
   height: 415px;
