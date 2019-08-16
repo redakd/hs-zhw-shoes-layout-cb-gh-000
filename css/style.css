@@ -314,6 +314,5 @@ footer a {
       width: 31%;
 }
 
-.col_1{
-
-}
+[class*="col_"] {
+  margin-left: 3%;
